@@ -6,8 +6,7 @@ gAndromedaPkgTokenSpaceGuid.PcdMipiFrameBufferHeight|2340
 gAndromedaPkgTokenSpaceGuid.PcdSmbiosProcessorModel|"Snapdragon(TM) 855+ @2.96GHz"
 gAndromedaPkgTokenSpaceGuid.PcdSmbiosProcessorRetailModel|"SM8150-AC"
 gAndromedaPkgTokenSpaceGuid.PcdSmbiosSystemBrand|"Xiaomi"
-gAndromedaPkgTokenSpaceGuid.PcdSmbiosSystemModel|"Redmi K20 Pro"
-gAndromedaPkgTokenSpaceGuid.PcdSmbiosBoardModel|"Redmi K20 Pro Premium"
+gAndromedaPkgTokenSpaceGuid.PcdSmbiosSystemModel|"Redmi K20 Pro Premium"
 gAndromedaPkgTokenSpaceGuid.PcdSmbiosSystemRetailModel|"Raphaels"
 gAndromedaPkgTokenSpaceGuid.PcdSmbiosSystemRetailSku|"MP"
 
