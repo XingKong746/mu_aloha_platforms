@@ -3,12 +3,14 @@ gAndromedaPkgTokenSpaceGuid.PcdMipiFrameBufferWidth|1080
 gAndromedaPkgTokenSpaceGuid.PcdMipiFrameBufferHeight|2340
 
 # Smbios Info
+gAndromedaPkgTokenSpaceGuid.PcdSmbiosProcessorModel|"Snapdragon(TM) 855 Plus"
+gAndromedaPkgTokenSpaceGuid.PcdSmbiosProcessorRetailModel|"SM8150-AC"
 gAndromedaPkgTokenSpaceGuid.PcdSmbiosSystemBrand|"Xiaomi"
-gAndromedaPkgTokenSpaceGuid.PcdSmbiosSystemModel|"K20 Pro"
-gAndromedaPkgTokenSpaceGuid.PcdSmbiosSystemRetailModel|"raphael"
+gAndromedaPkgTokenSpaceGuid.PcdSmbiosSystemModel|"Redmi K20 Pro Premium Edition"
+gAndromedaPkgTokenSpaceGuid.PcdSmbiosSystemRetailModel|"Raphaels"
 gAndromedaPkgTokenSpaceGuid.PcdSmbiosSystemRetailSku|"MP"
 
-gAndromedaPkgTokenSpaceGuid.PcdABLProduct|"Xiaomi K20 Pro"
+gAndromedaPkgTokenSpaceGuid.PcdABLProduct|"raphael"
 
 [PcdsDynamicDefault.common]
 gEfiMdeModulePkgTokenSpaceGuid.PcdVideoHorizontalResolution|1080
